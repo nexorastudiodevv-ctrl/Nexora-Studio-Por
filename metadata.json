@@ -1,0 +1,6 @@
+{
+  "name": "Free API Key Hub",
+  "description": "A comprehensive directory, guide, and interactive playground for free APIs. Get mock keys, test live requests, and learn how to get a free Gemini API key.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
